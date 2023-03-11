@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Raleway');
+@import url('https://fonts.cdnfonts.com/css/nasalization-2');
+
+body{
+    background-color: #0f0f0f;
+    font-family: "Lato";
+    font-weight: 300;
+    font-size: 25px;
+    color: #0f0f0f;
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+    margin-top: 70px;
+}
+
+h1{
+    font-family: 'Nasalization', sans-serif;
+    font-weight: 800;
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+}
+
+h2{
+    font-family: "Raleway";
+    font-weight: 700;
+    color: gray;
+}
+
+h3{
+    font-family: 'Nasalization', sans-serif;
+    font-weight: 800;
+    font-size: 70px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+h4{
+    font-family: "Raleway";
+    font-weight: 700;
+    color: dimgray;
+}
+h5{
+    font-family: 'Lato', sans-serif;
+    font-weight: 800;
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+    text-align:center
+}
+h6{
+    font-family: 'Lato', sans-serif;
+    font-weight: 800;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    text-align:center
+}
+
+h7{
+    font-family: 'Nasalization', sans-serif;
+    font-weight: 800;
+    font-size: 20px;
+    color: white;
+}
+
+h8{
+    color: white;
+    font-size: 17;
+    text-align: justify-all;
+}
+h9{
+    font-weight: 800;
+    font-size: 30px;
+    color:white;
+    text-align: center center;
+}
+p{
+    line-height: 28px;
+    margin-bottom: 25px;
+}
+
+.centered{
+    text-align: center;
+}
+
+a{
+    color: #f85c37;
+}
+
+a:hover, a:focus{
+    color: #0f0f0f;
+    text-decoration: none;
+    outline: 0;
+}
+
+hr{
+    display: block;
+    height: 70px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.navbar{
+    font-weight: 800;
+    font-size: 14px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+.navbar-inverse{
+    background: #0f0f0f;
+    border-color: #0f0f0f;
+}
+
+#headerwrap1{
+    background: url("/Users/ykirnev/workplace/site/images/фон.jpg") no-repeat center top;
+    margin-top: -10px;
+    padding-top: 150px;
+    text-align: center center;
+    background-attachment: relative;
+    background-position: center center;
+    min-height: 500px;
+    background-size: 100%;
+    
+    width: 100%;
+    -webkit-background-size: cover;
+}
+
+#headerwrap2{
+    background: white;
+    margin-top: -10px;
+    padding-top: 80px;
+    text-align: center;
+    min-height: 480px;
+}
+
+#headerwrap3{
+    background: dimgray;
+    margin-top: -10px;
+    padding-top: 80px;
+    text-align: center;
+    min-height: 630px;
+}
+
+#headerwrap4{
+    background: dimgray;
+    margin-top: -10px;
+    padding-top: 40px;
+    text-align: center;
+    min-height: 130px;
+    text-indent: 20px;
+}
+
+#headerwrap5{
+    background: dimgray;
+    margin-top: -10px;
+    padding-top: 80px;
+    min-height: 680px;
+}
+
+#headerwrap6{
+    background: white;
+    margin-top: -10px;
+    padding-top: 80px;
+    min-height: 700px;
+}
+
+#headerwrap7{
+    background: dimgray;
+    margin-top: -10px;
+    padding-top: 80px;
+    min-height: 680px;
+}
+
+#headerwrap8{
+    background: white;
+    margin-top: -100px;
+    padding-top: 80px;
+    text-align: center;
+    min-height: 980px;
+}
+#headerwrap9{
+    background: white;
+    margin-top: -100px;
+    padding-top: 80px;
+    text-align: center;
+    min-height: 980px;
+}
+
+#headerwrap10{
+    background: dimgray;
+    margin-top: -10px;
+    padding-top: 80px;
+    text-align: center;
+    min-height: 230px;
+}
